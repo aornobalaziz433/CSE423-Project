@@ -1,8 +1,10 @@
 # CSE423-Project
 OpenGL game development. Senior year comp graphics project
 
-Doomsday Journey: ##Game Description
+Doomsday Journey: 
+Game Description
 Doomsday Journey is a 3D action game built in Python using PyOpenGL, set in a Mad Max: Fury Road-style post-apocalyptic desert. You control an armored car equipped with a roof-mounted machine gun, racing across an open desert arena filled with randomly placed stone boulders that act as solid obstacles.
+
 Gameplay
 Drive and Shoot: Roam freely across the desert, shooting zombies with your machine gun to survive.
 Collect Coins: Grab floating coins scattered across the arena to earn points.
