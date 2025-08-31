@@ -11,5 +11,5 @@ Fight Zombies: Zombies attack your car. If one reaches you, you lose a life.
 Increasing Difficulty: As you kill more zombies, they spawn faster and become tougher (faster speed and more health).
 Game Over: The game ends when you lose all your lives.
 
-##Objective
+#Objective
 Survive as long as possible in the harsh desert wasteland, racking up points by collecting coins and defeating zombies while avoiding collisions and attacks.
