@@ -261,7 +261,7 @@ def main():
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH)
     glutInitWindowSize(WINDOW_W, WINDOW_H)
     glutInitWindowPosition(0, 0)
-    glutCreateWindow(b"Doomsday Journey - Step 1 & 2: Player Locomotion")
+    glutCreateWindow(b"Doomsday Journey")
 
 
     
@@ -274,4 +274,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
